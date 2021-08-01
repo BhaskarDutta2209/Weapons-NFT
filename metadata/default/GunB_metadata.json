@@ -1,0 +1,9 @@
+{
+    "name" : "Automatic Gun",
+    "description" : "An automatic gun for the game",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmZnUCNB7o7U3HnoZ5kmk3P2J8gZvnqTv8wMceEAKhwndf",
+    "attributes" : [{
+        "trait_type" : "Gun Type",
+        "value" : "B"
+    }]
+}

@@ -1,0 +1,9 @@
+{
+    "name" : "Semi_Automatic Gun",
+    "description" : "A semi automatic gun for the game",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmaLy3vGgox1drWCfUkWUdLApyofhUZEu45dDqV1bnprMD",
+    "attributes" : [{
+        "trait_type" : "Gun Type",
+        "value" : "A"
+    }]
+}
